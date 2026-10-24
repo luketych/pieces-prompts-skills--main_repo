@@ -32,6 +32,13 @@ scripts exit with a message if run without `uv`.
 - **Contents**: 7 prompts (prompting technique snippets)
 - **Local Changes**: `3rd_party/research--ai_prompts/local` (preserved on update)
 
+### skills-manager
+- **Source**: Local Skills Manager 2.1.9 collection (`~/.skills-manager/skills`); configured marketplace: ClawHub
+- **Imported**: 2026-10-23
+- **Contents**: 97 skill directories, each committed independently; see `3rd_party/skills-manager/README.md` and `metadata.json` for inventory and provenance
+- **Excluded**: Anthropic PowerPoint skill; its proprietary license prohibits redistribution
+- **License note**: Per-skill license status is recorded; inclusion does not imply a license grant for skills without a declared license
+
 ## Keeping Sources Updated
 
 This directory tracks upstream locations in `3rd_party/manifest.json` and uses

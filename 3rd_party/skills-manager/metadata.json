@@ -1,0 +1,901 @@
+{
+  "source": {
+    "type": "local collection",
+    "product": "Skills Manager",
+    "version": "2.1.9",
+    "directory": "~/.skills-manager/skills",
+    "marketplace_configured": "ClawHub",
+    "note": "The local collection did not include source URLs for every installed skill; per-skill source.json records only declared attribution."
+  },
+  "imported_on": "2026-10-23",
+  "counts": {
+    "skills_found": 98,
+    "skill_contents_imported": 97,
+    "excluded": 1
+  },
+  "skills": [
+    {
+      "path": "3rd_party/skills-manager/skills/apple/apple-notes",
+      "name": "apple-notes",
+      "source_path": "apple/apple-notes",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/apple/apple-reminders",
+      "name": "apple-reminders",
+      "source_path": "apple/apple-reminders",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/apple/findmy",
+      "name": "findmy",
+      "source_path": "apple/findmy",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/apple/imessage",
+      "name": "imessage",
+      "source_path": "apple/imessage",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/architecture-diagram",
+      "name": "architecture-diagram",
+      "source_path": "architecture-diagram",
+      "author": "Cocoon AI (hello@cocoon-ai.com), ported by Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/arxiv",
+      "name": "arxiv",
+      "source_path": "arxiv",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/autonomous-ai-agents/claude-code",
+      "name": "claude-code",
+      "source_path": "autonomous-ai-agents/claude-code",
+      "author": "Hermes Agent + Teknium",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/autonomous-ai-agents/codex",
+      "name": "codex",
+      "source_path": "autonomous-ai-agents/codex",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/autonomous-ai-agents/hermes-agent",
+      "name": "hermes-agent",
+      "source_path": "autonomous-ai-agents/hermes-agent",
+      "author": "Hermes Agent + Teknium",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/autonomous-ai-agents/kanban-codex-lane",
+      "name": "kanban-codex-lane",
+      "source_path": "autonomous-ai-agents/kanban-codex-lane",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/autonomous-ai-agents/opencode",
+      "name": "opencode",
+      "source_path": "autonomous-ai-agents/opencode",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/bd-to-br-migration",
+      "name": "bd-to-br-migration",
+      "source_path": "bd-to-br-migration",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/creative/ascii-art",
+      "name": "ascii-art",
+      "source_path": "creative/ascii-art",
+      "author": "0xbyt4, Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/creative/ascii-video",
+      "name": "ascii-video",
+      "source_path": "creative/ascii-video",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/creative/baoyu-article-illustrator",
+      "name": "baoyu-article-illustrator",
+      "source_path": "creative/baoyu-article-illustrator",
+      "author": "宝玉 (JimLiu)",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/creative/baoyu-comic",
+      "name": "baoyu-comic",
+      "source_path": "creative/baoyu-comic",
+      "author": "宝玉 (JimLiu)",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/creative/baoyu-infographic",
+      "name": "baoyu-infographic",
+      "source_path": "creative/baoyu-infographic",
+      "author": "宝玉 (JimLiu)",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/creative/claude-design",
+      "name": "claude-design",
+      "source_path": "creative/claude-design",
+      "author": "BadTechBandit",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/creative/comfyui",
+      "name": "comfyui",
+      "source_path": "creative/comfyui",
+      "author": "[kshitijk4poor, alt-glitch, purzbeats]",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/creative/creative-ideation",
+      "name": "ideation",
+      "source_path": "creative/creative-ideation",
+      "author": "SHL0MS",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/creative/design-md",
+      "name": "design-md",
+      "source_path": "creative/design-md",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/creative/humanizer",
+      "name": "humanizer",
+      "source_path": "creative/humanizer",
+      "author": "Siqi Chen (@blader, https://github.com/blader/humanizer), ported by Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/creative/manim-video",
+      "name": "manim-video",
+      "source_path": "creative/manim-video",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/creative/p5js",
+      "name": "p5js",
+      "source_path": "creative/p5js",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/creative/pixel-art",
+      "name": "pixel-art",
+      "source_path": "creative/pixel-art",
+      "author": "dodo-reach",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/creative/popular-web-designs",
+      "name": "popular-web-designs",
+      "source_path": "creative/popular-web-designs",
+      "author": "Hermes Agent + Teknium (design systems sourced from VoltAgent/awesome-design-md)",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/creative/pretext",
+      "name": "pretext",
+      "source_path": "creative/pretext",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/creative/songwriting-and-ai-music",
+      "name": "songwriting-and-ai-music",
+      "source_path": "creative/songwriting-and-ai-music",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/creative/touchdesigner-mcp",
+      "name": "touchdesigner-mcp",
+      "source_path": "creative/touchdesigner-mcp",
+      "author": "kshitijk4poor",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/data-science/jupyter-live-kernel",
+      "name": "jupyter-live-kernel",
+      "source_path": "data-science/jupyter-live-kernel",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/devops/kanban-orchestrator",
+      "name": "kanban-orchestrator",
+      "source_path": "devops/kanban-orchestrator",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/devops/kanban-worker",
+      "name": "kanban-worker",
+      "source_path": "devops/kanban-worker",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/devops/webhook-subscriptions",
+      "name": "webhook-subscriptions",
+      "source_path": "devops/webhook-subscriptions",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/dogfood",
+      "name": "dogfood",
+      "source_path": "dogfood",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/email/himalaya",
+      "name": "himalaya",
+      "source_path": "email/himalaya",
+      "author": "community",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/excalidraw-mcp-workflow",
+      "name": "excalidraw-mcp-workflow",
+      "source_path": "excalidraw-mcp-workflow",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/excalidraw",
+      "name": "excalidraw",
+      "source_path": "excalidraw",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/gaming/minecraft-modpack-server",
+      "name": "minecraft-modpack-server",
+      "source_path": "gaming/minecraft-modpack-server",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/gaming/pokemon-player",
+      "name": "pokemon-player",
+      "source_path": "gaming/pokemon-player",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/github/codebase-inspection",
+      "name": "codebase-inspection",
+      "source_path": "github/codebase-inspection",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/github/github-auth",
+      "name": "github-auth",
+      "source_path": "github/github-auth",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/github/github-code-review",
+      "name": "github-code-review",
+      "source_path": "github/github-code-review",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/github/github-issues",
+      "name": "github-issues",
+      "source_path": "github/github-issues",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/github/github-pr-workflow",
+      "name": "github-pr-workflow",
+      "source_path": "github/github-pr-workflow",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/github/github-repo-management",
+      "name": "github-repo-management",
+      "source_path": "github/github-repo-management",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/godmode",
+      "name": "godmode",
+      "source_path": "godmode",
+      "author": "Hermes Agent + Teknium",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/graphify",
+      "name": "graphify",
+      "source_path": "graphify",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/macos-computer-use",
+      "name": "macos-computer-use",
+      "source_path": "macos-computer-use",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/mcp/native-mcp",
+      "name": "native-mcp",
+      "source_path": "mcp/native-mcp",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/media/gif-search",
+      "name": "gif-search",
+      "source_path": "media/gif-search",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/media/heartmula",
+      "name": "heartmula",
+      "source_path": "media/heartmula",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/media/songsee",
+      "name": "songsee",
+      "source_path": "media/songsee",
+      "author": "community",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/media/spotify",
+      "name": "spotify",
+      "source_path": "media/spotify",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/mlops/evaluation/lm-evaluation-harness",
+      "name": "evaluating-llms-harness",
+      "source_path": "mlops/evaluation/lm-evaluation-harness",
+      "author": "Orchestra Research",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/mlops/evaluation/weights-and-biases",
+      "name": "weights-and-biases",
+      "source_path": "mlops/evaluation/weights-and-biases",
+      "author": "Orchestra Research",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/mlops/huggingface-hub",
+      "name": "huggingface-hub",
+      "source_path": "mlops/huggingface-hub",
+      "author": "Hugging Face",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/mlops/inference/llama-cpp",
+      "name": "llama-cpp",
+      "source_path": "mlops/inference/llama-cpp",
+      "author": "Orchestra Research",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/mlops/inference/obliteratus",
+      "name": "obliteratus",
+      "source_path": "mlops/inference/obliteratus",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/mlops/inference/vllm",
+      "name": "serving-llms-vllm",
+      "source_path": "mlops/inference/vllm",
+      "author": "Orchestra Research",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/mlops/models/audiocraft",
+      "name": "audiocraft-audio-generation",
+      "source_path": "mlops/models/audiocraft",
+      "author": "Orchestra Research",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/mlops/models/segment-anything",
+      "name": "segment-anything-model",
+      "source_path": "mlops/models/segment-anything",
+      "author": "Orchestra Research",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/mlops/research/dspy",
+      "name": "dspy",
+      "source_path": "mlops/research/dspy",
+      "author": "Orchestra Research",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/Multi Search Engine",
+      "name": "multi-search-engine",
+      "source_path": "Multi Search Engine",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/obsidian",
+      "name": "obsidian",
+      "source_path": "obsidian",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/ocr-and-documents",
+      "name": "ocr-and-documents",
+      "source_path": "ocr-and-documents",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/ontology",
+      "name": "ontology",
+      "source_path": "ontology",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/playwright-cli",
+      "name": "playwright-cli",
+      "source_path": "playwright-cli",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/productivity/airtable",
+      "name": "airtable",
+      "source_path": "productivity/airtable",
+      "author": "community",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/productivity/google-workspace",
+      "name": "google-workspace",
+      "source_path": "productivity/google-workspace",
+      "author": "Nous Research",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/productivity/linear",
+      "name": "linear",
+      "source_path": "productivity/linear",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/productivity/maps",
+      "name": "maps",
+      "source_path": "productivity/maps",
+      "author": "Mibayy",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/productivity/nano-pdf",
+      "name": "nano-pdf",
+      "source_path": "productivity/nano-pdf",
+      "author": "community",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/productivity/notion",
+      "name": "notion",
+      "source_path": "productivity/notion",
+      "author": "community",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/productivity/powerpoint",
+      "name": "powerpoint",
+      "source_path": "productivity/powerpoint",
+      "author": null,
+      "declared_license": "Proprietary. LICENSE.txt has complete terms",
+      "upstream_url": null,
+      "included": false,
+      "exclusion_reason": "Explicitly proprietary; its LICENSE.txt prohibits copying and distribution."
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/productivity/teams-meeting-pipeline",
+      "name": "teams-meeting-pipeline",
+      "source_path": "productivity/teams-meeting-pipeline",
+      "author": "Hermes Agent + Teknium",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/requesting-code-review",
+      "name": "requesting-code-review",
+      "source_path": "requesting-code-review",
+      "author": "Hermes Agent (adapted from obra/superpowers + MorAlekss)",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/research/blogwatcher",
+      "name": "blogwatcher",
+      "source_path": "research/blogwatcher",
+      "author": "JulienTant (fork of Hyaxia/blogwatcher)",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/research/llm-wiki",
+      "name": "llm-wiki",
+      "source_path": "research/llm-wiki",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/research/polymarket",
+      "name": "polymarket",
+      "source_path": "research/polymarket",
+      "author": "Hermes Agent + Teknium",
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/research/research-paper-writing",
+      "name": "research-paper-writing",
+      "source_path": "research/research-paper-writing",
+      "author": "Orchestra Research",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/sketch",
+      "name": "sketch",
+      "source_path": "sketch",
+      "author": "Hermes Agent (adapted from gsd-build/get-shit-done)",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/Skill Vetter",
+      "name": "skill-vetter",
+      "source_path": "Skill Vetter",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/smart-home/openhue",
+      "name": "openhue",
+      "source_path": "smart-home/openhue",
+      "author": "community",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/social-media/xurl",
+      "name": "xurl",
+      "source_path": "social-media/xurl",
+      "author": "xdevplatform + openclaw + Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/software-development/debugging-hermes-tui-commands",
+      "name": "debugging-hermes-tui-commands",
+      "source_path": "software-development/debugging-hermes-tui-commands",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/software-development/hermes-agent-skill-authoring",
+      "name": "hermes-agent-skill-authoring",
+      "source_path": "software-development/hermes-agent-skill-authoring",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/software-development/hermes-s6-container-supervision",
+      "name": "hermes-s6-container-supervision",
+      "source_path": "software-development/hermes-s6-container-supervision",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/software-development/node-inspect-debugger",
+      "name": "node-inspect-debugger",
+      "source_path": "software-development/node-inspect-debugger",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/software-development/plan",
+      "name": "plan",
+      "source_path": "software-development/plan",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/software-development/python-debugpy",
+      "name": "python-debugpy",
+      "source_path": "software-development/python-debugpy",
+      "author": "Hermes Agent",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/software-development/spike",
+      "name": "spike",
+      "source_path": "software-development/spike",
+      "author": "Hermes Agent (adapted from gsd-build/get-shit-done)",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/software-development/subagent-driven-development",
+      "name": "subagent-driven-development",
+      "source_path": "software-development/subagent-driven-development",
+      "author": "Hermes Agent (adapted from obra/superpowers)",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/software-development/systematic-debugging",
+      "name": "systematic-debugging",
+      "source_path": "software-development/systematic-debugging",
+      "author": "Hermes Agent (adapted from obra/superpowers)",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/software-development/writing-plans",
+      "name": "writing-plans",
+      "source_path": "software-development/writing-plans",
+      "author": "Hermes Agent (adapted from obra/superpowers)",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/stability-instability-architecture",
+      "name": "stability-instability-architecture",
+      "source_path": "stability-instability-architecture",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/test-driven-development",
+      "name": "test-driven-development",
+      "source_path": "test-driven-development",
+      "author": "Hermes Agent (adapted from obra/superpowers)",
+      "declared_license": "MIT",
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/youtube-content",
+      "name": "youtube-content",
+      "source_path": "youtube-content",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    },
+    {
+      "path": "3rd_party/skills-manager/skills/yuanbao",
+      "name": "yuanbao",
+      "source_path": "yuanbao",
+      "author": null,
+      "declared_license": null,
+      "upstream_url": null,
+      "included": true
+    }
+  ]
+}
