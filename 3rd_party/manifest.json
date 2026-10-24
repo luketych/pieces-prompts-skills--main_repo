@@ -54,6 +54,16 @@
         "local"
       ],
       "notes": "Prompting technique snippets from augment blog."
+    },
+    {
+      "id": "skills-manager",
+      "path": "3rd_party/skills-manager",
+      "type": "manual",
+      "source": {
+        "url": "local Skills Manager collection; individual upstreams are recorded per skill when known"
+      },
+      "metadata_file": "metadata.json",
+      "notes": "Curated snapshot of local Skills Manager skills. Keep manual to avoid destructive automated replacement; proprietary PowerPoint skill omitted."
     }
   ]
 }
