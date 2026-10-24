@@ -1,0 +1,18 @@
+{
+  "author": null,
+  "created_at": null,
+  "description": "Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...",
+  "install_url": null,
+  "marketplace_skill_id": "src_clawhub::ontology",
+  "marketplace_skill_slug": "ontology",
+  "marketplace_source_id": "src_clawhub",
+  "name": "ontology",
+  "remote_revision": "1.0.4",
+  "repo_url": null,
+  "skill_path": "ontology",
+  "source": "marketplace",
+  "tags": [
+    "Agent Memory"
+  ],
+  "version": "1.0"
+}
