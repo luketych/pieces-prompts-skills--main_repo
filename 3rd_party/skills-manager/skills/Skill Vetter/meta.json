@@ -1,0 +1,19 @@
+{
+  "author": null,
+  "created_at": null,
+  "description": "Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+  "install_url": null,
+  "marketplace_skill_id": "src_clawhub::skill-vetter",
+  "marketplace_skill_slug": "skill-vetter",
+  "marketplace_source_id": "src_clawhub",
+  "name": "Skill Vetter",
+  "remote_revision": "1.0.0",
+  "repo_url": null,
+  "skill_path": "skill-vetter",
+  "source": "marketplace",
+  "tags": [
+    "GitHub",
+    "Permission"
+  ],
+  "version": "1.0"
+}
